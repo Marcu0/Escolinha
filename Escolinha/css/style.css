@@ -1,0 +1,27 @@
+.pag{
+    margin-top: 2em;
+    padding: 5em;
+    border-radius: 2em;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red,orange,yellow, white );
+}
+.pag2{
+    opacity: 0.8;
+    padding: 5em;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red,orange,yellow, white );
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/4e/94/7a/4e947afe00fb849dd5796dcf5f63d9e6.jpg);
+
+}
+.foto{
+    width: 2em;
+}
+img{
+    width: 100%;
+}
+.link a {
+    color: black;
+    text-decoration: none;
+}
